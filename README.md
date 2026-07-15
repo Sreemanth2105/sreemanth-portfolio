@@ -1,63 +1,26 @@
+
+<!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sreemanth&fontColor=FFFFFF&fontSize=70&desc=Computer%20Science%20Engineer%20-%20Java%20-%20Machine%20Learning%20-%20Data%20Analytics"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sreemanth&fontColor=FFFFFF&fontSize=70&desc=Computer%20Science%20Engineer%20-%20Java%20-%20Machine%20Learning%20-%20Data%20Analytics" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Sreemanth+%F0%9F%91%8B;Computer+Science+Engineer;Java+Developer;Data+Analytics+Learner;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sreemanth2105&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering @ **VIT-AP University**
-
-💡 Passionate about Software Development, Machine Learning and Cloud Computing.
-
-🌱 Currently learning
-
-* Data Structures & Algorithms
-* Full Stack Development
-* System Design
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Web
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
----
-
-# 🚀 Featured Projects
-
-* 💻 Laptop Price Predictor
-* 🌾 Crop Recommendation System
-* 💰 Smart Wallet
-* ✅ Todo Management System
-
----
-
-# 🏆 Certifications
-
-* Oracle Cloud Infrastructure Foundations
-* AWS Academy Cloud Architecting
-
----
-
-# 📫 Connect with Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/sreemanth-thannieru
-* 📧 Email: [sreemanthsreemanth7@gmail.com](mailto:sreemanthsreemanth7@gmail.com)
-
-</div>
-
+- 🎓 B.Tech Computer Science & Engineering Student at **VIT-AP University**
+- 💻 Passionate about Java, Machine Learning, Data Analytics, and Full Stack Development
+- 🌱 Currently learning Data Structures & Algorithms and System Design
+- 🚀 Open to Software Development and Machine Learning opportunities
