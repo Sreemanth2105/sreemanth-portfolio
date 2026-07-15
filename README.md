@@ -29,5 +29,5 @@ Data analysis using Python and Pandas.
 - AWS Academy Cloud Architecting
 
 ## Connect with Me
-- LinkedIn: Add your LinkedIn profile link
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/sreemanth-thannieru
+- Email: sreemanthsreemanth7@gmail.com
