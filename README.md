@@ -2,16 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sreemanth&fontColor=FFFFFF&fontSize=70&desc=Computer%20Science%20Engineer%20-%20Java%20-%20Machine%20Learning%20-%20Data%20Analytics"/>
 </p>
 
-<div align="center">
-
-# Hi 👋, I'm Sreemanth
-
-### 🚀 Software Developer | Java Developer | Machine Learning Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
-
-</div>
-
 ---
 
 # 👨‍💻 About Me
