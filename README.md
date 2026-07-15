@@ -1,46 +1,95 @@
 
+<div align="center">
+
 # Hi, I'm Sreemanth 👋
 
-## 🎓 About Me
+### B.Tech Computer Science Student | Java Developer | Machine Learning Enthusiast
 
-* B.Tech CSE Student at **VIT-AP University** (2023–2027)
-* Passionate about **Java, Python, SQL, Machine Learning, and Software Development**
-* Oracle Cloud Infrastructure Foundations Certified
-* Currently learning Data Structures & Algorithms and Full Stack Development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/sreemanth-thannieru)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:sreemanthsreemanth7@gmail.com)
 
-## 🛠️ Skills
+</div>
 
-* Java
-* Python
-* SQL
-* MySQL
-* Git & GitHub
-* HTML & CSS
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech in Computer Science & Engineering at **VIT-AP University** (2023–2027)
+
+💡 Passionate about building software, solving problems, and applying Machine Learning to real-world applications.
+
+🌱 Currently exploring **Data Structures & Algorithms, Full Stack Development, Cloud Computing, and Artificial Intelligence**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Java` • `Python` • `SQL`
+
+**Web**
+
+`HTML` • `CSS`
+
+**Database**
+
+`MySQL`
+
+**Tools**
+
+`Git` • `GitHub` • `VS Code`
+
+---
 
 ## 🚀 Featured Projects
 
 ### 💻 Laptop Price Predictor
 
-A machine learning application that predicts laptop prices based on hardware specifications.
-🔗 Repository: https://github.com/Sreemanth2105/laptop-price-predictor
+Machine Learning application that predicts laptop prices based on hardware specifications.
+
+🔗 **Repository:**
+https://github.com/Sreemanth2105/laptop-price-predictor
+
+---
 
 ### 🌾 Crop Recommendation System
 
-A machine learning model that recommends suitable crops based on environmental and soil conditions.
-🔗 Repository: https://github.com/Sreemanth2105/Crop-Recommendation-System
+ML-based application that recommends suitable crops using environmental and soil parameters.
+
+🔗 **Repository:**
+https://github.com/Sreemanth2105/Crop-Recommendation-System
+
+---
 
 ### 💰 Smart Wallet
 
-A personal finance application to help users manage expenses and track their budget.
-🔗 Repository: https://github.com/Sreemanth2105/smartwallet
+A personal finance management application for tracking expenses and managing budgets.
+
+🔗 **Repository:**
+https://github.com/Sreemanth2105/smartwallet
+
+---
 
 ## 🏆 Certifications
 
 * Oracle Cloud Infrastructure Foundations
 * AWS Academy Cloud Architecting
 
-## 📫 Connect with Me
+---
 
-* LinkedIn: https://www.linkedin.com/in/sreemanth-thannieru
-* Email: [sreemanthsreemanth7@gmail.com](mailto:sreemanthsreemanth7@gmail.com)
+## 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/sreemanth-thannieru
+* **Email:** [sreemanthsreemanth7@gmail.com](mailto:sreemanthsreemanth7@gmail.com)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+*Always learning, building, and improving.*
+
+</div>
 
