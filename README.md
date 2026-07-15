@@ -1,33 +1,37 @@
 
 # Hi, I'm Sreemanth 👋
 
-## About Me
-- 🎓 B.Tech CSE Student at VIT-AP University
-- 💻 Java | Python | SQL
-- ☁️ Oracle Cloud Foundations Certified
-- 🌱 Currently learning Data Structures & Algorithms and Full Stack Development
+## 🎓 About Me
+- B.Tech CSE Student at **VIT-AP University** (2023–2027)
+- 💻 Passionate about Java, Python, SQL, and Software Development
+- ☁️ Oracle Cloud Infrastructure Foundations Certified
+- 🌱 Currently learning Data Structures & Algorithms, Full Stack Development, and Data Analytics
 
-## Skills
+## 🛠️ Skills
 - Java
 - Python
 - SQL
 - Git & GitHub
 - HTML & CSS
+- MySQL
 
-## Projects
-### Smart Parking System
+## 📂 Projects
+### 🚗 Smart Parking System
 A parking management system built using Java and MySQL.
 
-### Student Management System
+### 🎓 Student Management System
 A Java application to manage student records.
 
-### Data Analytics Project
-Data analysis using Python and Pandas.
+### 📊 Data Analytics Project
+Data analysis using Python, Pandas, and data visualization.
 
-## Certifications
+## 🏆 Certifications
 - Oracle Cloud Infrastructure Foundations
 - AWS Academy Cloud Architecting
 
-## Connect with Me
-- LinkedIn: www.linkedin.com/in/sreemanth-thannieru
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sreemanth-thannieru
 - Email: sreemanthsreemanth7@gmail.com
+
+---
+⭐ Feel free to explore my repositories and connect with me!
