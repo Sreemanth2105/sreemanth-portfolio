@@ -41,6 +41,39 @@
   </a>
 </p>
 
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreemanth2105&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreemanth2105&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sreemanth2105&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sreemanth2105&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sreemanth2105&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 ---
 
 # 🚀 Featured Projects
