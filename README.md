@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sreemanth&fontColor=FFFFFF&fontSize=70&desc=Computer%20Science%20Engineer%20-%20Java%20-%20Machine%20Learning%20-%20Data%20Analytics"/>
+</p>
 
 <div align="center">
 
